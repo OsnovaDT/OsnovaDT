@@ -1,22 +1,54 @@
-### Hi there 👋, my name is Evgeny Stepanov
-#### I am a Full Stack Python Developer 🐍. You can read how I became one [here][1]
-[1]: https://habr.com/ru/users/OsnovaDT/ "here"
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, bro, you are on the page of Evgeny Stepanov.</h1>
+
+#### I am a Full Stack Python Developer 🐍. You can read how I became one [here][1].
+[1]: https://habr.com/ru/company/pvs-studio/blog/584962/ "here"
 
 #
-#### I am 21 years old and I live in Tula, Russia
+#### I am 21 years old.
+#### I live in Tula, Russia.
 
 #
-#### 👨‍💻 Skills:
-* Python3, PEP8
-* Django, DjangoORM, DRF
-* JavaScript, HTML5, CSS, JQuery, Sass, AJAX
-* Docker, Docker Compose
-* Linux
-* SQL, PostgreSQL
-* Git, SVN
+#### 👨‍💻 My skills:
+<p>
+  <img alt="Python3" src="https://img.shields.io/badge/-Python3-blue?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PEP8" src="https://img.shields.io/badge/-PEP8-blue?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-074c32?style=flat-square&logo=django&logoColor=white" />
+  <img alt="DjangoORM" src="https://img.shields.io/badge/-DjangoORM-074c32?style=flat-square&logo=django&logoColor=white" />
+  <img alt="DRF" src="https://img.shields.io/badge/-DRF-074c32?style=flat-square&logo=django&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/-Docker Compose-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-2987c5?style=flat-square&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fae043?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0968ac?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="AJAX" src="https://img.shields.io/badge/-AJAX-208dc6?style=flat-square&logo=ajax&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="SVN" src="https://img.shields.io/badge/-SVN-7b9cc7?style=flat-square&logo=subversion&logoColor=white" />
+</p>
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-26678e?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 #
-#### Hobbies:
+#### My hobbies:
 * ⚽ Football
 * 🏋️‍ Workout
 * 📚 Books (Overwhelmingly self-development books)
