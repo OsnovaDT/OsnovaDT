@@ -1,29 +1,30 @@
 ### Hi there 👋, my name is Evgeny Stepanov
-#### I am a Full Stack Python Developer 🐍
+#### I am a Full Stack Python Developer 🐍. You can read how I became one [here][1]
+[1]: https://habr.com/ru/users/OsnovaDT/ "here"
 
-# You can read how I became one here:
-MY_HABR_LINK = 'https://habr.com/ru/users/OsnovaDT/'
+#
+#### I am 21 years old and I live in Tula, Russia
 
-my_age = 21
+#
+#### 👨‍💻 Skills:
+* Python3, PEP8
+* Django, DjangoORM, DRF
+* JavaScript, HTML5, CSS, JQuery, Sass, AJAX
+* Docker, Docker Compose
+* Linux
+* SQL, PostgreSQL
+* Git, SVN
 
-# 👨‍💻
-my_skills = (
-    Python3, Django, DjangoORM, JavaScript,
-    HTML5, CSS, Docker, JQuery, AJAX, PEP8,
-    Linux, PostgreSQL, DRF, Sass,
-)
+#
+#### Hobbies:
+* ⚽ Football
+* 🏋️‍ Workout
+* 📚 Books (Overwhelmingly self-development books)
+* 🏕 Travel
+* 💨 Hookah
 
-# 😄
-my_hobbies = (
-    play_football, # ⚽
-    workout, # 🏋️‍
-    read_books, # Overwhelmingly self-development books. 📚
-    travel, # 🏕
-    smoke_hookah, # 💨
-    write_programming_articles, # 📝
-)
-
-# 🔥
-my_favorite_things_in_programming = (
-    refactroing, testing # Yes, I'm a perfectionist )))
-)
+#
+#### My favorite things in programming:
+* 🔥 Refactroing (Yes, I'm a perfectionist)))
+* 💥 Testing
+* 📝 Writing programming articles
