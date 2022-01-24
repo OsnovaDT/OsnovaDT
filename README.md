@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋, my name is Evgeny Stepanov
+#### I am a Full Stack Python Developer 🐍
 
-<!--
-**OsnovaDT/OsnovaDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# You can read how I became one here:
+MY_HABR_LINK = 'https://habr.com/ru/users/OsnovaDT/'
 
-Here are some ideas to get you started:
+my_age = 21
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻
+my_skills = (
+    Python3, Django, DjangoORM, JavaScript,
+    HTML5, CSS, Docker, JQuery, AJAX, PEP8,
+    Linux, PostgreSQL, DRF, Sass,
+)
+
+# 😄
+my_hobbies = (
+    play_football, # ⚽
+    workout, # 🏋️‍
+    read_books, # Overwhelmingly self-development books. 📚
+    travel, # 🏕
+    smoke_hookah, # 💨
+    write_programming_articles, # 📝
+)
+
+# 🔥
+my_favorite_things_in_programming = (
+    refactroing, testing # Yes, I'm a perfectionist )))
+)
