@@ -4,8 +4,7 @@
 [1]: https://habr.com/ru/company/pvs-studio/blog/584962/ "here"
 
 #
-#### I am 21 years old.
-#### I live in Tula, Russia.
+![github-stats](https://github-readme-stats.vercel.app/api?username=OsnovaDT&show_icons=true&count_private=true&theme=dark)
 
 #
 #### 👨‍💻 My skills:
@@ -36,16 +35,12 @@
 
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=white" />
-</p>
-
-<p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="SVN" src="https://img.shields.io/badge/-SVN-7b9cc7?style=flat-square&logo=subversion&logoColor=white" />
-</p>
-
-<p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-26678e?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
+
+![lang-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OsnovaDT&langs_count=10&layout=compact&hide=html&theme=dark)
 
 #
 #### My hobbies:
