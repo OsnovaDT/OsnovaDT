@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, you are on the page of Evgeny Stepanov.</h1>
 
-#### I am a Full Stack Python Developer 🐍. You can read how I became one [here][1].
+#### I am a Python TeamLead 🐍
 [1]: https://habr.com/ru/company/pvs-studio/blog/584962/ "here"
 
 #
