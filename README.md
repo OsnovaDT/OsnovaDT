@@ -48,10 +48,9 @@
 * 🏋️‍ Workout
 * 📚 Books (Overwhelmingly self-development books)
 * 🏕 Travel
-* 💨 Hookah
 
 #
 #### My favorite things in programming:
-* 🔥 Refactroing (Yes, I'm a perfectionist)))
-* 💥 Testing
-* 📝 Writing programming articles
+* 🔥 Team management
+* 💥 Architecture development, Testing
+* 📝 Writing clean code and clear documentation
